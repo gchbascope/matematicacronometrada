@@ -19,6 +19,11 @@ namespace Practica2
         int addend1;
         int addend2;
 
+       // These ints will store the numbers
+	   // for the subtraction problem. 
+	   int minuend; 
+	   int subtrahend;
+	   
         // This int will keep track of the time left.
         int timeLeft;
 
